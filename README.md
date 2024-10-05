@@ -228,9 +228,9 @@ If you want to [Download Free Admin Templates](https://themeselection.com/item/c
 
 * [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)
 * [Freebies](https://themeselection.com/item/category/free-admin-templates/)
-* [Download Free Admin Templates](https://themeselection.com/item/category/free-admin-templates/)
+* [Download Free Admin Templates](https://themeselection.com/item/category/free-admin-templates/)![alt text](image-2.png)
 * [Bootstrap 5 CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
-
+![alt text](image-1.png)
 ## Social Media :earth_africa:
 
 - [Twitter](https://twitter.com/Theme_Selection)
@@ -239,3 +239,4 @@ If you want to [Download Free Admin Templates](https://themeselection.com/item/c
 - [Instagram](https://www.instagram.com/themeselection/)
 - [Discord](https://discord.gg/kBHkY7DekX)
 - [YouTube](https://www.youtube.com/channel/UCuryo5s0CW4aP83itLjIdZg)
+![alt text](image.png)
